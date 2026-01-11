@@ -1,0 +1,5 @@
+{
+  "name": "NeuroVis: Transparent Neural Network",
+  "description": "A focused educational tool to inspect the mathematics of neural networks. Visualize forward passes, backpropagation, and weight initialization in a clean 3D environment.",
+  "requestFramePermissions": []
+}
